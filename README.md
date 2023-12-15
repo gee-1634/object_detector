@@ -31,4 +31,4 @@ pytest -vs utils/
 ## Copyright
 
 See [LICENSE](LICENSE) for details.
-Copyright (c) 2017 [Dat Tran](http://www.dat-tran.com/).
+Copyright (c) 2023 [Grace Majeke]
